@@ -67,7 +67,14 @@ Portfolio Building:
 Homework: m1 money for japan ?
           Answer)    
 
- 
+| _country_| M1 in 2020 | m1 in 2023 | Percentage change             |
+| ------- | ---------- | ---------- | ----------------------------- |
+| Japan   | 8211134    | 1000000    | ((1000000-821134)/821134)*100 |
+| India   | 38068      | 53255      | (( 53255-38068)/38068)*100    |
+
+
+
+
 
 NOTE: Market Macros:
 
